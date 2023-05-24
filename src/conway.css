@@ -1,0 +1,25 @@
+body {
+    background: #152238;
+}
+div {
+    background : #192841;
+    color: #4ac;
+}
+section div{
+    height: 1em;
+}
+
+section button {
+    height: 1em;
+    width: 1em;
+    border: 1px solid #b4b1ff;
+
+}
+
+.alive {
+    background-color: chartreuse;
+}
+
+.dead {
+    background-color: aqua;	
+}
